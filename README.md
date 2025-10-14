@@ -1,6 +1,9 @@
 # DIY-IR-Emitter
 A custom built, DIY themed IR Transmitter with decent range specially made for Bruce Firmware.
 
+[BruceIRPreview]
+
+
 ## The Idea ...
 
 ...is very simple, I have tried multiple solutions offered by various people and various manufacturers for IR Transmitting, but none seem to give the optimal range in order for me to use with the Bruce Firmware ( credit is due to all the amazing falks who develop Bruce ). So I did some research on how to develop a custom IR Emitter, thus finally decided to create one with various easy to find components. This solution offers about 10 to 15ft of range on a closed environment where there's less sunlight available ( while most of the other IR emitters only offer about a range of <1ft ). 
