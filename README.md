@@ -1,7 +1,7 @@
 # DIY-IR-Emitter
 A custom built, DIY themed IR Transmitter with decent range specially made for Bruce Firmware.
 
-![BruceIRPreview](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/Bruce-IRemitter.jpg)
+![BruceIRPreview](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/DIYirPreview.jpg)
 
 
 ## The Idea ...
