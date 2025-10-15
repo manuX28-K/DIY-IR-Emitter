@@ -6,7 +6,7 @@ A custom built, DIY themed IR Transmitter with decent range specially made for B
 
 ## The Idea ...
 
-...is very simple, I have tried multiple solutions offered by various people and various manufacturers for IR Transmitting, but none seem to give the optimal range in order for me to use with the Bruce Firmware ( credit is due to all the amazing falks who develop Bruce ). So I did some research on how to develop a custom IR Emitter, thus finally decided to create one with various easy to find components. This solution offers about 7 to 10ft of range on a closed environment where there's less sunlight available ( while most of the other IR emitters only offer about a range of <5ft ). 
+...is very simple, I have tried multiple solutions offered by various people and various manufacturers for IR Transmitting, but none seem to give the optimal range in order for me to use with the Bruce Firmware ( credit is due to all the amazing folks who develop Bruce ). So I did some research on how to develop a custom IR Emitter, thus finally decided to create one with various easy to find components. This solution offers about 7 to 10ft of range on a closed environment where there's less sunlight available ( while most of the other IR emitters only offer about a range of <5ft ). 
 
 
 ## The components you need 👇🏻
@@ -58,4 +58,4 @@ ASCII re-presentation of the circuit diagram 👇🏻👇🏻
 [Poor range on IR Transmitters](https://www.reddit.com/r/AskElectronics/comments/183mhh6/increase_voltage_power_for_ir_led_powered_by_33v/)
 
 ## Thank you for giving us Bruce 🐬✨️
-@bmorcelli thank you for your amazing work on bruce firmware 🤍
+@bmorcelli - thank you for your amazing work on the bruce firmware 🤍
