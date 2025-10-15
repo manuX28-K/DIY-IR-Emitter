@@ -11,9 +11,9 @@ A custom built, DIY themed IR Transmitter with decent range specially made for B
 
 ## The components you need 👇🏻
 
-1. TSAL6400 5mm IR LED    - got from an old TV remote
-2. 2N2222 NPN Transistor  - removed from an old tv pcb and repurposed
-3. 47 ohm Resistor        - same
+1. TSAL6400 5mm IR LED    - removed from an old TV remote
+2. 2N2222 NPN Transistor  - bought from the store
+3. 47 ohm Resistor        - removed from an old tv pcb and repurposed
 4. 1K ohm Resistor        - same
 5. 6.3v 100uf capacitor ( + 0.1uf ceremic capacitor if possible ) - same
 6. 10cm female to female/male jumpers ( need to be cut in half )  - bought from the store
