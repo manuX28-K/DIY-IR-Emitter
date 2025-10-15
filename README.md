@@ -36,7 +36,7 @@ ASCII re-presentation of the circuit diagram 👇🏻👇🏻
 (100µF cap across 3.3V and GND)
 
 ```
-NOTE : 3.3v --> 47ohm resistor --> ( + ) side of the led, ( - ) side of the led goes to the collector pin of the 2N2222. DO NOT MESS UP these two wirings or you can easily fry your transistor 🤒
+**NOTE : 3.3v --> 47ohm resistor --> ( + ) side of the led, ( - ) side of the led goes to the collector pin of the 2N2222. DO NOT MESS UP these two wirings or you can easily fry your transistor 🤒**
 
 ### Important information before soldering;
 
@@ -48,11 +48,11 @@ NOTE : 3.3v --> 47ohm resistor --> ( + ) side of the led, ( - ) side of the led 
 
 ## Thank you for testing this out 🩷
 
-Always keep in mind, I do not encourage any illegal activity using this DIY solution. Always use on the devices that you own or have permission to test on, thus keep it legal and safe. Thank you for testing this project...peace 🫡
+*Always keep in mind, I do not encourage any illegal activity using this DIY solution. Always use on the devices that you own or have permission to test on, thus keep it legal and safe. Thank you for testing this project...peace 🫡*
 
 ![InAction](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/InAction.jpg)
 
 
 ### Inspiration and further readings :
->> ([https://tasmota.github.io/docs/IR-Remote/#related-projects])
->> ([https://www.reddit.com/r/AskElectronics/comments/183mhh6/increase_voltage_power_for_ir_led_powered_by_33v/])
+>> [Tasmota's DIY IR Solution](https://tasmota.github.io/docs/IR-Remote/#related-projects)
+>> [Poor range on IR Transmitters](https://www.reddit.com/r/AskElectronics/comments/183mhh6/increase_voltage_power_for_ir_led_powered_by_33v/)
