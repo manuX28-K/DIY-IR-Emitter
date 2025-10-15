@@ -35,3 +35,5 @@ Fairly easy to do, schematic is provided below. With that, all you need is patie
 ## Thank you for testing this out 🩷
 
 Always keep in mind, I do not encourage any illegal activity using this DIY solution. Always use on the devices that you own or have permission to test on, thus keep it legal and safe. Thank you for testing this project...peace 🫡
+
+![InAction](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/InAction.jpg)
