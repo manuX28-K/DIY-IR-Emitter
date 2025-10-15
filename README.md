@@ -23,7 +23,18 @@ A custom built, DIY themed IR Transmitter with decent range specially made for B
 Fairly easy to do, schematic is provided below. With that, all you need is patience and a bit of soldering work to get it up and running.
 
 ![CircuitDiagram](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/CircuitDiagram.png)
+![CircuitDiagram2](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/Diagram2.jpg)
 
+(```)
+
+3.3V ----[47Ω]---->| (IR LED)
+                         |
+                      Collector (C) - 2N2222
+                      Base (B) <- [1kΩ] <- ESP GPIO (IR_TX)
+                      Emitter (E) -> GND
+(100µF cap across 3.3V and GND)
+
+(```)
 
 ### Important details before soldering;
 1. The resistor which is marked as 1K, should be connected with the data pin ( in this case GPIO 17 as the TX pin specified in Bruce Firmware ) of the esp32 S3.
