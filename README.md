@@ -21,3 +21,5 @@ A custom built, DIY themed IR Transmitter with decent range specially made for B
 ## How to assemble?
 
 Fairly easy to do, schematic is provided below. With that, all you need is patience and a bit of soldering work to get it up and running.
+
+![CircuitDiagram](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/CircuitDiagram.png)
