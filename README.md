@@ -54,5 +54,5 @@ ASCII re-presentation of the circuit diagram 👇🏻👇🏻
 
 
 ### Inspiration and further readings :
->> [Tasmota's DIY IR Solution](https://tasmota.github.io/docs/IR-Remote/#related-projects)
+>> [Tasmota's DIY IR Solution](https://tasmota.github.io/docs/IR-Remote/#related-projects) \
 >> [Poor range on IR Transmitters](https://www.reddit.com/r/AskElectronics/comments/183mhh6/increase_voltage_power_for_ir_led_powered_by_33v/)
