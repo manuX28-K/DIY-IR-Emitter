@@ -25,7 +25,7 @@ Fairly easy to do, schematic is provided below. With that, all you need is patie
 ![CircuitDiagram](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/CircuitDiagram.png)
 ![CircuitDiagram2](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/Diagram2.jpg)
 
-ASCII Representarion of the circuit diagram 👇🏻👇🏻
+ASCII re-presentation of the circuit diagram 👇🏻👇🏻
 ```
 
 3.3V ----[47Ω]---->| (IR LED)
@@ -36,13 +36,13 @@ ASCII Representarion of the circuit diagram 👇🏻👇🏻
 (100µF cap across 3.3V and GND)
 
 ```
-NOTE : 3.3v --> 47ohm resistor -> + side of the led, - side of the led goes to the collector pin of the 2N2222. DO NOT MESS UP these two wirings or you can easily fry your transistor 🤒
+NOTE : 3.3v --> 47ohm resistor -> ( + ) side of the led, ( - ) side of the led goes to the collector pin of the 2N2222. DO NOT MESS UP these two wirings or you can easily fry your transistor 🤒
 
 ### Important information before soldering;
 1. The resistor which is marked as 1K, should be connected with the data pin ( in this case GPIO 17 as the TX pin specified in Bruce Firmware ) of the esp32 S3.
 2. 47ohm resistor gives about 100 mAh of peak pulses ( is it the correct term... ), allowing safe yet powerful transmitting capabilities.
 3. Using a 6.3v 100uf capacitor is not must, but it helps the voltage spikes being smoothed in the process, thus allowing better performance.
-4. Use shorter wires better. ( The longer the length of wires, the lower the peak mAh will get due to resistence. )
+4. The shorter the wires better. ( The longer the length of wires, the lower the peak mAh will get due to resistence. )
 5. This is tested under reguler conditions ( meaning, at my house on my own TV ), so you could expect the same if not better results on a more controlled environment.
 
 ## Thank you for testing this out 🩷
