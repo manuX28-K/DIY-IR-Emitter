@@ -1,5 +1,5 @@
 # DIY-IR-Emitter
-A custom built, DIY themed IR Transmitter with decent range specially made for Bruce Firmware.
+A custom built, DIY themed IR Transmitter with decent range specially made for Bruce Firmware, made by using a TSAL6400 IR L.E.D.
 
 ![BruceIRPreview](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/DIYirPreview.jpg)
 
