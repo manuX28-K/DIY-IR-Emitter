@@ -54,5 +54,5 @@ Always keep in mind, I do not encourage any illegal activity using this DIY solu
 
 
 ### Inspiration and further readings :
->> ![Tasmota's IR Solution ](https://tasmota.github.io/docs/IR-Remote/#related-projects)
->> ![Issue with the poor range : Reddit](https://www.reddit.com/r/AskElectronics/comments/183mhh6/increase_voltage_power_for_ir_led_powered_by_33v/)
+>> ([https://tasmota.github.io/docs/IR-Remote/#related-projects])
+>> ([https://www.reddit.com/r/AskElectronics/comments/183mhh6/increase_voltage_power_for_ir_led_powered_by_33v/])
