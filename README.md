@@ -46,13 +46,16 @@ ASCII re-presentation of the circuit diagram 👇🏻👇🏻
 4. The shorter the wires better. ( The longer the length of wires, the lower the peak mAh will get due to resistence. )
 5. This is tested under regular conditions ( meaning, at my house on my own TV ), so you could expect the same if not better results on a more controlled environment.
 
-## Thank you for testing this out 🩷
+## Thank you for testing this out 🙂‍↔️
 
 *Always keep in mind, I do not encourage any illegal activity using this DIY solution. Always use on the devices that you own or have permission to test on, thus keep it legal and safe. Thank you for testing this project...peace 🫡*
 
 ![InAction](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/InAction.jpg)
 
 
-### Inspiration and further readings :
+## Inspiration and further readings :
 [Tasmota's DIY IR Solution](https://tasmota.github.io/docs/IR-Remote/#related-projects) \
 [Poor range on IR Transmitters](https://www.reddit.com/r/AskElectronics/comments/183mhh6/increase_voltage_power_for_ir_led_powered_by_33v/)
+
+## Thank you for giving us Bruce 🐬✨️
+@bmorcelli thank you for your amazing work on bruce firmware 🤍
