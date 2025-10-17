@@ -1,5 +1,5 @@
 # DIY-IR-Emitter
-A custom built, DIY themed IR Transmitter with decent range specially made for Bruce Firmware, made with a TSAL6400 IR L.E.D.
+A custom built, DIY themed IR Transmitter with decent range specially made for Bruce Firmware, using a TSAL6400 IR L.E.D.
 
 ![BruceIRPreview](https://github.com/manuX28-K/DIY-IR-Emitter/blob/main/DIYirPreview.jpg)
 
@@ -54,7 +54,7 @@ ASCII re-presentation of the circuit diagram 👇🏻👇🏻
 
 
 ## Inspiration and further readings :
-[Tasmota's DIY IR Solution](https://tasmota.github.io/docs/IR-Remote/#related-projects) \
+[arendst's DIY IR Solution](https://tasmota.github.io/docs/IR-Remote/#related-projects) \
 [Poor range on IR Transmitters](https://www.reddit.com/r/AskElectronics/comments/183mhh6/increase_voltage_power_for_ir_led_powered_by_33v/)
 
 ## Thank you for giving us Bruce 🐬✨️
